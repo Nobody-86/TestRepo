@@ -2,3 +2,6 @@ TestRepo
 ========
 
 Ein Repository zum Testen
+
+Die car Klasse representiert ein Auto.
+Dieses Auto hat eine Farbe.
